@@ -2,7 +2,7 @@
 
 *I’m passionate about making tech more inclusive, for users and creators alike.* ❤️ 
 
-I'm a Software Developer from Toronto, Canada and currently based in London, UK. I'm part of the Engineering team at [Vault Platform](vaultplatform.com), where we are fixing workplace misconduct by empowering employees to speak up. 🗣 
+I'm a Software Developer from Toronto, Canada and currently based in London, UK. I'm part of the Engineering team at [Vault Platform](http://vaultplatform.com), where we are fixing workplace misconduct by empowering employees to speak up. 🗣 
 
 
 ### Recent work 👩🏻‍💻  
