@@ -2,9 +2,7 @@
 
 **Pronouns: she/her**
 
-*I’m passionate about connecting people and building products that change workplaces for the better.* 🗣 
-
-I'm a Software Engineer from Toronto, Canada and currently based in London, UK. I'm part of the Engineering team at [Organise](http://organise.network), where we are working to give everyone the tools, support and confidence to improve their life at work. 📣
+*I'm a Software Engineer from Toronto, Canada and currently based in London, UK. I’m passionate about connecting people and building high-quality, inclusive products that change workplaces for the better.*
 
 
 ### Recent work 👩🏻‍💻  
