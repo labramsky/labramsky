@@ -2,14 +2,14 @@
 
 **Pronouns: she/her**
 
-*I'm a Software Engineer from Toronto, Canada and currently based in London, UK. I’m passionate about connecting people and building high-quality, inclusive products that change workplaces for the better.*
+*I'm a Software Engineer originally from Toronto, Canada and now based in London, UK. I’m passionate about connecting people and inclusive digital tools that help make society better for everyone.*
 
 
 ### Recent work 👩🏻‍💻  
 
-* I'm currently leading the React development of Organise's new [Network](https://app.organise.network/) product, used monthly by 200K+ workers to  support campaigns, take action, and connect with fellow workers to improve their life at work.
+* I'm currently a software engineer at [Adobe](https://www.adobe.com/uk/), where I build accessible and reusable React components to help businesses manage their teams and assign licenses across Adobe products.
+* I previously led the React development of Organise's new [Network](https://app.organise.network/) product, used monthly by 200K+ workers to  support campaigns, take action, and connect with fellow workers to improve their life at work.
 * I spoke at the [WomenTech Network's Global Conference](https://www.womentech.net/speaker/Lauren/Abramsky/57900), which unites 100,000 women in tech from around the world. I shared my story as someone who's experienced & reported workplace harassment, and the technology we can build to empower employees through the reporting process.
-* I was featured in an [interview with TechTwoX](https://techtwox.com/lauren-abramsky/), a women in tech blog, where I shared my story about how I got into my field, and my advice to anyone that's ever felt they don't belong in tech.
 * At Vault Platform, I led the React development of a new online reporting tool, [Open Reporting](https://vaultplatform.com/vault-open-reporting-enables-speak-up-platform-for-entire-business-ecosystem), which opens up the power of reporting to members of the public.
 * Celebrating Women's Day, I made [Femi-List](http://www.laurenabramsky.com/femi-list/): a feminist's list of inspirational women, to amplify and celebrate their stories.
 
@@ -17,7 +17,6 @@
 
 * Portfolio: [laurenabramsky.com](https://www.laurenabramsky.com/)
 * Email: [hello@laurenabramsky.com](mailto:hello@laurenabramsky.com)
-* Twitter: [@labramsky](https://twitter.com/labramsky)
 * LinkedIn: [@laurenabramsky](https://www.linkedin.com/in/laurenabramsky/)
 
 
